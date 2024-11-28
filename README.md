@@ -17,8 +17,17 @@
     ```bash
     npm install axios random-useragent
     ```
+3. **add account list in query.js**
 
-3. **Set max/minimum points in config.js**
+    ```plaintext
+   let accounts = [
+    // example accounts
+     "query1",
+     "query2"
+    ];
+    module.exports = accounts;
+    
+4. **Set max/minimum points in config.js**
 
     ```plaintext
    {
@@ -26,7 +35,7 @@
     "minPoint": 200
    }
  
-4. **node blum-new.js**
+5. **node blum-new.js**
 
 ## Dukungan
 
