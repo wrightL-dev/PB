@@ -10,12 +10,10 @@
     ```bash
     git clone https://github.com/wrightL-dev/PB
     cd PB
-
 2. **Instal package yang diperlukan:**
 
     ```bash
     npm install axios random-useragent
-    
 3. **Tambahin list akun di query.js**
 
     ```plaintext
@@ -25,7 +23,6 @@
      "query2"
     ];
     module.exports = accounts;
-    
 4. **Set max/minimum points di config.js**
 
     ```plaintext
@@ -33,12 +30,10 @@
     "maxPoint": 600,
     "minPoint": 200
    }
- 
 5. **Perintah jalankan:**
 
     ```plaintext
    node blum-new.js
-
 ## Dukungan
 
 Jika Anda memiliki pertanyaan atau butuh bantuan lebih lanjut, silakan bergabung dengan saluran Telegram kami di [t.me/tahuri01](https://t.me/tahuri01).
