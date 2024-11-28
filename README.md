@@ -16,7 +16,7 @@
     ```bash
     npm install axios random-useragent
     
-3. **Tambahin List Akun Di query.js**
+3. **Tambahin list akun di query.js**
 
     ```plaintext
    let accounts = [
@@ -34,7 +34,7 @@
     "minPoint": 200
    }
  
-5. **Perintah Jalankan:**
+5. **Perintah jalankan:**
 
     ```plaintext
    node blum-new.js
